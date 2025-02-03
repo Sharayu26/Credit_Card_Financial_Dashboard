@@ -62,4 +62,7 @@ The Power BI file consists of multiple report pages, each dedicated to a specifi
 - **Enhanced Customer Segmentation**: Using clustering techniques to improve marketing strategies.
 - **Drill-Down Capabilities**: Enhancing interactive features for deeper data exploration.
 - **Mobile-Friendly Reports**: Optimizing dashboards for accessibility on mobile devices.
-   
+
+## DashBoard
+  <img src ="https://github.com/Sharayu26/Credit_Card_Financial_Dashboard/blob/main/credit%20card%20Customer%20Report.png?raw=true">
+  <img src ="https://github.com/Sharayu26/Credit_Card_Financial_Dashboard/blob/main/credit%20card%20Customer%20Report.png?raw=true">
