@@ -65,4 +65,5 @@ The Power BI file consists of multiple report pages, each dedicated to a specifi
 
 ## DashBoard
   <img src ="https://github.com/Sharayu26/Credit_Card_Financial_Dashboard/blob/main/credit%20card%20Customer%20Report.png?raw=true">
-  <img src ="https://github.com/Sharayu26/Credit_Card_Financial_Dashboard/blob/main/credit%20card%20Customer%20Report.png?raw=true">
+  
+  <img src ="https://github.com/Sharayu26/Credit_Card_Financial_Dashboard/blob/main/Credit%20card%20Transaction%20Report.png?raw=true">
